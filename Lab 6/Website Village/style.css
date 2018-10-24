@@ -1,0 +1,36 @@
+#topbar{
+  text-align: center;
+  background-color: white;
+}
+
+#washu{
+  background-color:	;
+}
+
+#sidebar{
+  background-color: 	#006400;
+  text-align: justify;
+  padding-left: 20px;
+}
+
+#breakfast{
+  text-align: left;
+  background-color: white;
+  list-style: none;
+}
+
+#lunch{
+  text-align: left;
+  background-color: white;
+  list-style: none;
+}
+
+#dinner{
+  text-align: left;
+  background-color: white;
+  list-style: none;
+}
+
+#disclaimer{
+  text-align: center;
+}
